@@ -15,3 +15,6 @@ By trimming the data, the average (mean) and middle value (median) of the groupâ
    - The plot demonstrates that, even if individual estimates vary significantly, the *mean and median* of the group's estimates converge toward a more accurate value after eliminating extreme outliers.
 
 
+![Estimate Plot](https://github.com/santoshisalver/CrowdComputing/blob/master/crowd_comp.jpg?raw=true)
+
+
